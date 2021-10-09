@@ -1,4 +1,4 @@
-# Handwritten Digit and Character Recognition using Keras and TensorFlow
+# Handwritten Digit Recognition using Keras and TensorFlow
 ## Introduction
 In this project, I developed a machine learning model to achieve a near state-of-the-art performance on the tensorflow handwritten dataset. I'm going to use Keras with TensorFlow.
 
